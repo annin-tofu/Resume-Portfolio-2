@@ -1,45 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Yuya Okamura",
+    "occupation": "",
+    "description": "I love music and coding",
+    "image": "profilepic_yuya.png",
+    "bio": "Hi there! I am Yuya!",
+    "contactmessage": "Get in touch with me!",
+    "email": "yuok5770@gmail.com",
+    "phone": "080-5704-8995",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "4-13-6 Ayase, Adachi-city",
+      "city": "Japan",
+      "state": "Tokyo",
+      "zip": "120-0005"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://yuyaokamura.com",
+    "resumedownload": "https://drive.google.com/file/d/1jKv3VFMu2nn4onQcHoRpwdZvGOGqMoLa/view?usp=sharing",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/yuya-o-1256bb47",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/annin-tofu",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +33,18 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "San Francisco State University - California, USA",
+        "degree": "Bachelor's Degree, Economics",
+        "graduated": "June 2017",
+        "description": "A.A. in Music (Theory and Composition) at DeAnza College"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Servcorp",
+        "title": "Facilities Coordinator/ Project Manager",
+        "years": "Jan 2019 - Present",
+        "description": "responsible for overseeing all activities inside a building, making sure that health and safety standards are met, and also maintaining critical facilities. Arrange for repairs if needed, as well as construction projects such as office and floor renovation. Track expenses, coordinate with external vendors, and initiate procurement and import of office goods. Coordinate with Headquarters in Australia as well as other office locations all over the world. Manage a maintenance team consisting of 5"
       }
     ],
     "skills": [
@@ -88,21 +73,27 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Amazon Clone (React JS, Tailwind CSS, Fakestore API, Firebase, Stripe, Redux, Vercel",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "58db7c7f50ba9.image.jpg",
+        "url": "https://amazon-2-0-clone-nextjs.vercel.app"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Spotify Clone (React JS, Spotify API, Redux, Vercel)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "icon4@2x.png",
+        "url": "https://spotify-clone-2.netlify.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "LinkedIn Clone (React JS, Firebase, Redux, Vercel)",
         "category": "",
-        "image": "linkedin.jpg",
+        "image": "linkedin.png",
+        "url": "https://linkedin-clone-yt-yuok5770.web.app/"
+      },
+      {
+        "title": "Tinder Clone (React JS, Firebase, Netlify",
+        "category": "",
+        "image": "tinder-redesign-graphics_dezeen_sq-1.jpg",
         "url": "https://youtu.be/QaYts9sPmcY"
       }
     ]
@@ -110,12 +101,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Yuya is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Mick Jagger"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Yuya has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "John Lennon"
       }
     ]
   }

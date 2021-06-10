@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
             <li>
               Made by{" "}
               <a title="PAPA" href="http://www.papareact.com/">
-                PAPA
+                Yuya Okamura
               </a>
             </li>
           </ul>
