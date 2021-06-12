@@ -50,11 +50,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
+        "level": "60%"
       },
       {
         "name": "Git",
@@ -62,11 +58,24 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "60%"
       },
       {
+        "name": "CSS/Tailwind CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase/Firestore",
+        "level": "70%"
+      },
+
+      {
         "name": "Web Development",
-        "level": "95%"
+        "level": "70%"
+      },
+      {
+        "name": "Vercel/Netlify",
+        "level": "70%"
       }
     ]
   },
@@ -95,18 +104,6 @@
         "category": "",
         "image": "images copy.png",
         "url": "https://whatsapp-tan.vercel.app/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Yuya is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Mick Jagger"
-      },
-      {
-        "text": "Learning with Yuya has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "John Lennon"
       }
     ]
   }
