@@ -468,6 +468,16 @@ ul#nav li.current a {
   color: #95a3a3;
 }
 
+#portfolio p {
+  font: 15px/24px "opensans-bold", sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-bottom: 48px;
+  color: red;
+  border: 5px solid green;
+  padding: 5px;
+}
+
 /* Portfolio Content */
 #portfolio-wrapper .columns {
   margin-bottom: 36px;
