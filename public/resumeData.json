@@ -2,17 +2,17 @@
   "main": {
     "name": "Yuya Okamura",
     "occupation": "",
-    "description": "I love music and coding",
+    "description": "Junior Full-Stack Developer",
     "image": "profilepic_yuya.png",
     "bio": "Hi there! I am Yuya!",
     "contactmessage": "Get in touch with me!",
     "email": "yuok5770@gmail.com",
-    "phone": "080-5704-8995",
+    "phone": "",
     "address": {
-      "street": "4-13-6 Ayase, Adachi-city",
-      "city": "Japan",
-      "state": "Tokyo",
-      "zip": "120-0005"
+      "street": "",
+      "city": "Central Tokyo, Japan",
+      "state": "",
+      "zip": ""
     },
     "website": "https://yuyaokamura.com",
     "resumedownload": "https://drive.google.com/file/d/1jKv3VFMu2nn4onQcHoRpwdZvGOGqMoLa/view?usp=sharing",
@@ -50,7 +50,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Git",
@@ -58,7 +58,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "60%"
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
       },
       {
         "name": "CSS/Tailwind CSS",
@@ -66,11 +70,6 @@
       },
       {
         "name": "Firebase/Firestore",
-        "level": "70%"
-      },
-
-      {
-        "name": "Web Development",
         "level": "70%"
       },
       {
