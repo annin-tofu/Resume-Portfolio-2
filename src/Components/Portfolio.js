@@ -36,6 +36,7 @@ const Portfolio = ({ data }) => {
             For AMAZON CHECKOUT; use credit number “4242 4242 4242 4242”, expiry
             “04/24”, and CVC “424”
           </p>
+          <p>(Apps are only tested with Chrome on PC)</p>
           <div
             id="portfolio-wrapper"
             className="bgrid-quarters s-bgrid-thirds cf"
