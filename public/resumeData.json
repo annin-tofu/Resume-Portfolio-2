@@ -33,10 +33,16 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
+        "school": "PAPAREACT.com - Bootcamp",
+        "degree": "",
+        "graduated": "2021",
+        "description": "Studied React, Redux, Firebase, APIs, Vercel/Netlify, and many other cutting-edge web developing skills."
+      },
+      {
         "school": "San Francisco State University - California, USA",
         "degree": "Bachelor's Degree, Economics",
-        "graduated": "June 2017",
-        "description": "A.A. in Music (Theory and Composition) at DeAnza College"
+        "graduated": "2017",
+        "description": ""
       }
     ],
     "work": [
@@ -49,13 +55,16 @@
     ],
     "skills": [
       {
-        "name": "JavaScript(ES6, React, Redux, NodeJS, NextJS)"
+        "name": "JavaScript(ES6, React, Redux, NodeJS, Vue.js, NextJS)"
       },
       {
         "name": "CSS, Tailwind CSS"
       },
       {
         "name": "Firebase, MongoDB"
+      },
+      {
+        "name": "Firestore"
       },
       {
         "name": "Heroku, Vercel, Netlify"
@@ -65,6 +74,9 @@
       },
       {
         "name": "Python"
+      },
+      {
+        "name": "GCP, AWS"
       }
     ]
   },
