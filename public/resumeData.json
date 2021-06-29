@@ -83,28 +83,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "To-do List (React JS, CSS, Vercel",
+        "title": "To-do List App (React JS, CSS, Vercel",
         "category": "",
         "image": "68747470733a2f2f692e696d6775722e636f6d2f785873574c4c472e706e67 (1).png",
         "url": "https://to-do-list-app-2.vercel.app/"
       },
       {
-        "title": "WhatsApp Clone (NextJS, Firebase, Vercel)",
+        "title": "Meessenger App (NextJS, Firebase, Vercel)",
         "category": "",
         "image": "524846c6fd9fe5cf4f42fb8812d6019d.png",
         "url": "https://whatsapp-tan.vercel.app/"
       },
       {
-        "title": "Amazon Clone (React JS, Tailwind CSS, Fakestore API, Firebase, Stripe, Redux, Vercel",
-        "category": "",
-        "image": "2fc707030eb52f9163e9f2f11262030b.jpeg",
-        "url": "https://amazon-2-0-clone-nextjs.vercel.app"
-      },
-      {
-        "title": "LinkedIn Clone (React JS, Firebase, Redux, Vercel)",
+        "title": "Business SNS App (React JS, Firebase, Redux, Vercel)",
         "category": "",
         "image": "handshake-icon-red-background-red-flat-style-vector-illustration-handshake-icon-red-background-red-flat-style-vector-179115695.jpeg",
         "url": "https://linkedin-clone-yt-yuok5770.web.app/"
+      },
+      {
+        "title": "EC App (React JS, Tailwind CSS, Fakestore API, Firebase, Stripe, Redux, Vercel",
+        "category": "",
+        "image": "2fc707030eb52f9163e9f2f11262030b.jpeg",
+        "url": "https://amazon-2-0-clone-nextjs.vercel.app"
       }
     ]
   }
