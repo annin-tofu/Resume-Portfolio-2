@@ -71,6 +71,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "To-do List (React JS, CSS, Vercel",
+        "category": "",
+        "image": "EioUd2hXgAAZfRM.jpeg",
+        "url": "https://to-do-list-app-2.vercel.app/"
+      },
+      {
         "title": "Amazon Clone (React JS, Tailwind CSS, Fakestore API, Firebase, Stripe, Redux, Vercel",
         "category": "",
         "image": "58db7c7f50ba9.image.jpg",

@@ -30,13 +30,15 @@ const Portfolio = ({ data }) => {
       <div className="row">
         <div className="twelve columns collapsed">
           <h1>Check Out Some of My Works.</h1>
-          <p>TEST LOGIN ID: test.123yuyaokamura@gmail.com</p>
-          <p>TEST LOGIN PW: Test_12345</p>
           <p>
-            For AMAZON CHECKOUT; use credit number “4242 4242 4242 4242”, expiry
-            “04/24”, and CVC “424”
+            TEST LOGIN ID: test.123yuyaokamura@gmail.com<br></br>
+            <br></br>TEST LOGIN PW: Test_12345<br></br>
+            <br></br>
+            For AMAZON CHECKOUT, use credit number: 4242 4242 4242 4242 expiry:
+            04/24 CVC: 424
+            <br></br>
+            <br></br>Apps are only tested with Chrome on PC
           </p>
-          <p>(Apps are only tested with Chrome on PC)</p>
           <div
             id="portfolio-wrapper"
             className="bgrid-quarters s-bgrid-thirds cf"
