@@ -2,7 +2,7 @@
   "main": {
     "name": "Yuya Okamura",
     "occupation": "",
-    "description": "Junior Full-Stack Developer",
+    "description": "Full-Stack Developer",
     "image": "profilepic_yuya.png",
     "bio": "Hi there! I am Yuya, a Full-Stack Developer.",
     "contactmessage": "Get in touch with me!",
@@ -49,30 +49,22 @@
     ],
     "skills": [
       {
-        "name": "ReactJs"
+        "name": "JavaScript(ES6, React, Redux, NodeJS, NextJS)"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "CSS, Tailwind CSS"
       },
       {
-        "name": "JavaScript"
+        "name": "Firebase, MongoDB"
       },
       {
-        "name": "Web Development",
-        "level": "70%"
+        "name": "Heroku, Vercel, Netlify"
       },
       {
-        "name": "CSS/Tailwind CSS",
-        "level": "70%"
+        "name": "Git"
       },
       {
-        "name": "Firebase/Firestore",
-        "level": "70%"
-      },
-      {
-        "name": "Vercel/Netlify",
-        "level": "70%"
+        "name": "Python"
       }
     ]
   },
