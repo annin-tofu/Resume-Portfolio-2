@@ -4,7 +4,7 @@
     "occupation": "",
     "description": "Junior Full-Stack Developer",
     "image": "profilepic_yuya.png",
-    "bio": "Hi there! I am Yuya!",
+    "bio": "Hi there! I am Yuya, a Full-Stack Developer.",
     "contactmessage": "Get in touch with me!",
     "email": "yuok5770@gmail.com",
     "phone": "",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://yuyaokamura.com",
-    "resumedownload": "https://drive.google.com/file/d/1jKv3VFMu2nn4onQcHoRpwdZvGOGqMoLa/view?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/17-k3-Pdg0aNRMAR59zGUAot1dF4TljshIplk-FU6Cr8/edit?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -49,16 +49,14 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "80%"
+        "name": "ReactJs"
       },
       {
         "name": "Git",
         "level": "70%"
       },
       {
-        "name": "JavaScript",
-        "level": "80%"
+        "name": "JavaScript"
       },
       {
         "name": "Web Development",
@@ -85,12 +83,6 @@
         "category": "",
         "image": "58db7c7f50ba9.image.jpg",
         "url": "https://amazon-2-0-clone-nextjs.vercel.app"
-      },
-      {
-        "title": "Spotify Clone (React JS, Spotify API, Redux, Netlify)",
-        "category": "",
-        "image": "icon4@2x.png",
-        "url": "https://spotify-clone-3.netlify.app/"
       },
       {
         "title": "LinkedIn Clone (React JS, Firebase, Redux, Vercel)",
