@@ -1,5 +1,6 @@
 import React from "react";
-import TypeWriter from "react-typewriter";
+// Typewriter effect removed. Due to slow-loading
+// import TypeWriter from "react-typewriter";
 
 const Header = ({ data }) => {
   if (data) {
@@ -62,8 +63,9 @@ const Header = ({ data }) => {
           <h1 className="responsive-headline">
             <h0 typing={0.5}>{name ? ` ${name}` : null}</h0>
           </h1>
+          {/* //       Based in {city}. <span>{occupation}</span>. {description}. */}
           <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
+            Based in {city}. {description}.
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
