@@ -83,7 +83,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "To-do List App (React, CSS, Vercel",
+        "title": "To-do List App (React, CSS, Vercel)",
         "category": "",
         "image": "68747470733a2f2f692e696d6775722e636f6d2f785873574c4c472e706e67 (1).png",
         "url": "https://to-do-list-app-2.vercel.app/"
@@ -101,7 +101,7 @@
         "url": "https://linkedin-clone-yt-yuok5770.web.app/"
       },
       {
-        "title": "EC App (React JS, Tailwind CSS, Fakestore API, Firebase, Stripe, Redux, Vercel",
+        "title": "EC App (NextJS, React, Redux, Tailwind CSS, FakestoreAPI, Firebase, Firestore, Stripe, Vercel)",
         "category": "",
         "image": "shopping-cart-orange-background-icon-vector-illustration-stock-80754940.jpeg",
         "url": "https://amazon-2-0-clone-nextjs.vercel.app"
