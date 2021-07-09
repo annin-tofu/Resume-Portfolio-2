@@ -36,10 +36,9 @@ const Portfolio = ({ data }) => {
             TEST LOGIN ID: test.123yuyaokamura@gmail.com<br></br>
             <br></br>TEST LOGIN PW: Test_12345<br></br>
             <br></br>
-            For PAYMENT, use credit number: 4242 4242 4242 4242 expiry: 04/24
-            CVC: 424
+            For PAYMENT, use TEST CREDIT NUMBER: 4242 4242 4242 4242 ; EXPIRY:
+            04/24 ; CVC: 424
             <br></br>
-            <br></br>Apps are only tested with Chrome on PC
           </p>
           <div
             id="portfolio-wrapper"
