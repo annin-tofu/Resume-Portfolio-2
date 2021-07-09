@@ -89,10 +89,16 @@
         "url": "https://to-do-list-app-2.vercel.app/"
       },
       {
-        "title": "Meessenger AppReact-Native, React,  Firebase(DB/Deployment), Firestore",
+        "title": "Meessenger App (React-Native, React,  Firebase(DB/Deployment), Firestore) ",
         "category": "",
         "image": "524846c6fd9fe5cf4f42fb8812d6019d.png",
         "url": "https://messenger-app-react-native.web.app"
+      },
+      {
+        "title": "Resume-Portfolio Website (React, CSS)",
+        "category": "",
+        "image": "handshake-icon-red-background-red-flat-style-vector-illustration-handshake-icon-red-background-red-flat-style-vector-179115695.jpeg",
+        "url": "https://resume-portfolio-2.vercel.app/"
       },
       {
         "title": "EC App (NextJS, React, Redux, Tailwind CSS, FakestoreAPI, Firebase, Firestore, Stripe, Vercel)",
