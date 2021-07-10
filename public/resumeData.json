@@ -64,7 +64,7 @@
         "name": "Firebase, MongoDB"
       },
       {
-        "name": "Firestore"
+        "name": "Firestore, NextAuth"
       },
       {
         "name": "Heroku, Vercel, Netlify"
@@ -101,7 +101,7 @@
         "url": "https://resume-portfolio-2.vercel.app/"
       },
       {
-        "title": "EC App (NextJS, React, Redux, Tailwind CSS, FakestoreAPI, Firebase, Firestore, Stripe, Vercel)",
+        "title": "EC App (NextJS, React, Redux, Tailwind CSS, FakestoreAPI, Firebase, Firestore, NextAuth, Stripe, Vercel)",
         "category": "",
         "image": "shopping-cart-orange-background-icon-vector-illustration-stock-80754940.jpeg",
         "url": "https://ec-site.vercel.app"
