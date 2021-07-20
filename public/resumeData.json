@@ -105,6 +105,12 @@
         "category": "",
         "image": "shopping-cart-orange-background-icon-vector-illustration-stock-80754940.jpeg",
         "url": "https://ec-website-app.vercel.app"
+      },
+      {
+        "title": "Vue-Weather-App (VueJS, CSS, WeatherAPI, Vercel)",
+        "category": "",
+        "image": "1cb1985f354865b6bef6e56f45c4ad37.jpeg",
+        "url": "https://vue2-weather-app.vercel.app"
       }
     ]
   }
