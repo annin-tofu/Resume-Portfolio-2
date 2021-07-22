@@ -58,7 +58,7 @@
         "name": "JavaScript(ES6, React, React-Native, Redux, NodeJS, Vue.js, NextJS)"
       },
       {
-        "name": "CSS, Tailwind CSS"
+        "name": "CSS, Tailwind CSS, styled-components"
       },
       {
         "name": "Firebase, MongoDB"
@@ -83,19 +83,19 @@
   "portfolio": {
     "projects": [
       {
-        "title": "To-do List App (React, CSS, Vercel)",
+        "title": "To-do List App (React, Vercel)",
         "category": "",
         "image": "68747470733a2f2f692e696d6775722e636f6d2f785873574c4c472e706e67 (1).png",
         "url": "https://to-do-list-app-2.vercel.app/"
       },
       {
-        "title": "Meessenger App (React-Native, React,  Firebase(DB/Deployment), Firestore) ",
+        "title": "Meessenger App (React-Native, Firebase(DB/Deployment), Firestore) ",
         "category": "",
         "image": "524846c6fd9fe5cf4f42fb8812d6019d.png",
         "url": "https://messenger-app-react-native.web.app"
       },
       {
-        "title": "Resume-Portfolio Website (React, CSS)",
+        "title": "Resume-Portfolio Website (React)",
         "category": "",
         "image": "handshake-icon-red-background-red-flat-style-vector-illustration-handshake-icon-red-background-red-flat-style-vector-179115695.jpeg",
         "url": "https://resume-portfolio-2.vercel.app/"
@@ -107,7 +107,7 @@
         "url": "https://ec-website-app.vercel.app"
       },
       {
-        "title": "Vue-Weather-App (VueJS, CSS, WeatherAPI, Vercel)",
+        "title": "Vue-Weather-App (VueJS, WeatherAPI, Vercel)",
         "category": "",
         "image": "1cb1985f354865b6bef6e56f45c4ad37.jpeg",
         "url": "https://vue2-weather-app.vercel.app"
