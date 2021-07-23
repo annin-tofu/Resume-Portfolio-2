@@ -94,12 +94,7 @@
         "image": "524846c6fd9fe5cf4f42fb8812d6019d.png",
         "url": "https://messenger-app-react-native.web.app"
       },
-      {
-        "title": "Resume-Portfolio Website (React)",
-        "category": "",
-        "image": "handshake-icon-red-background-red-flat-style-vector-illustration-handshake-icon-red-background-red-flat-style-vector-179115695.jpeg",
-        "url": "https://resume-portfolio-2.vercel.app/"
-      },
+
       {
         "title": "EC-Website-App (NextJS, React, Redux, Tailwind CSS, FakestoreAPI, Firebase, Firestore, NextAuth, GCP, Stripe, Vercel)",
         "category": "",
