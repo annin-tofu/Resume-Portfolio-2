@@ -61,11 +61,17 @@
         "name": "CSS, Tailwind CSS, styled-components"
       },
       {
+        "name": "Jest, Enzyme "
+      }
+      {
         "name": "Firebase, MongoDB"
       },
       {
         "name": "Firestore, NextAuth"
       },
+      {
+        "name": "Stripe"
+      }
       {
         "name": "Heroku, Vercel, Netlify"
       },
@@ -77,9 +83,6 @@
       },
       {
         "name": "GCP, AWS"
-      },
-      {
-        "name": "Jest, Enzyme "
       }
     ]
   },
