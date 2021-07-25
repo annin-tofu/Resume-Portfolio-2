@@ -78,6 +78,9 @@
       {
         "name": "GCP, AWS"
       }
+      {
+        "name": "Jest, Enzyme "
+      }
     ]
   },
   "portfolio": {
