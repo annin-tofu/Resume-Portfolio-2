@@ -31,14 +31,30 @@ const Portfolio = ({ data }) => {
         <div className="twelve columns collapsed">
           <h1>Check Out Some of My Works.</h1>
           <p>
-            !!!PLEASE READ!!!<br></br>
+            !!!PLEASE READ!!!
             <br></br>
-            TEST LOGIN ID: test.123yuyaokamura@gmail.com<br></br>
-            <br></br>TEST LOGIN PW: Test_12345<br></br>
             <br></br>
-            For PAYMENT, use TEST CREDIT NUMBER: 4242 4242 4242 4242 ; EXPIRY:
-            04/24 ; CVC: 424
+            For Testing, please use below ID/PW/etc...
             <br></br>
+            テスト用に以下ID/PW/クレジット情報等を用意してありますので、ご利用ください。
+            <br></br>
+            <br></br>
+            TEST LOGIN ID: test.123yuyaokamura@gmail.com
+            <br></br>
+            TEST LOGIN PW: Test_12345
+            <br></br>
+            <br></br>
+            For PAYMENT(支払い)on Stripe
+            <br></br>
+            Address can be whatever random (e.g. a,a,a,a....)
+            <br></br>
+            住所は何でも大丈夫です。(例: a,a,a,a....)
+            <br></br>
+            TEST CREDIT NUMBER(クレジットカード番号): 4242 4242 4242 4242
+            <br></br>
+            EXPIRY(有効期限): 04/24
+            <br></br>
+            CVC(セキュリティコード): 424
           </p>
           <div
             id="portfolio-wrapper"
