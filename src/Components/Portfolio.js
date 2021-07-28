@@ -59,11 +59,11 @@ const Portfolio = ({ data }) => {
           <div
             id="portfolio-wrapper"
             //change this depending on number of the projects.
-            // If 2 projects, use "bgrid-halves"
-            // if 3 projects, use "bgrid-thirds"
-            // if 4 projects, use "bgrid-quarter"
+            // If 2 projects, use "bgrid-halves s-bgrid-halves"
+            // if 3 projects, use "bgrid-thirds s-bgrid-thirds"
+            // if 4 projects, use "bgrid-quarter s-bgrid-quarter"
             // and so on....
-            className="bgrid-halves s-bgrid-thirds cf"
+            className="bgrid-halves s-bgrid-halves cf"
           >
             {projects}
           </div>

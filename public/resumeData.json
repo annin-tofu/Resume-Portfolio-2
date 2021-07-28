@@ -33,12 +33,6 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "PAPAREACT.com - Bootcamp",
-        "degree": "",
-        "graduated": "2021",
-        "description": "Studied React, Redux, Firebase, APIs, Vercel/Netlify, and many other cutting-edge web developing skills."
-      },
-      {
         "school": "San Francisco State University - California, USA",
         "degree": "Bachelor's Degree, Economics",
         "graduated": "2017",
