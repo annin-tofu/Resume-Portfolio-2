@@ -992,7 +992,7 @@ input[type="checkbox"] {
   width: 16.66667%;
 }
 .bgrid-quarters [class*="column"] {
-  width: 50%;
+  width: 25%;
 }
 .bgrid-thirds [class*="column"] {
   width: 33.33333%;
