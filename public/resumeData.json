@@ -4,8 +4,8 @@
     "occupation": "",
     "description": "Full-Stack Developer",
     "image": "profilepic_yuya.png",
-    "bio": "Hi there! I am Yuya, a Full-Stack Developer. オカムラユウヤ フルスタックエンジニア👨‍💻です",
-    "contactmessage": "Get in touch with me!",
+    "bio": "Hi there! I am Yuya, a Full-Stack Developer. オカムラユウヤ フルスタックエンジニア👨‍💻",
+    "contactmessage": "Get in touch with me! 連絡はこちらから",
     "email": "yuok5770@gmail.com",
     "phone": "",
     "address": {
@@ -34,7 +34,7 @@
     "education": [
       {
         "school": "San Francisco State University - California, USA",
-        "degree": "Bachelor's Degree, Economics",
+        "degree": "Bachelor's Degree, Economics 経済学",
         "graduated": "2017",
         "description": ""
       }
