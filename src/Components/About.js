@@ -11,7 +11,8 @@ const About = ({ data }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
+    var resumeDownloadEN = data.resumedownloadEN;
+    var resumeDownloadJP = data.resumedownloadJP;
   }
 
   return (
@@ -48,12 +49,12 @@ const About = ({ data }) => {
             <div className="columns download">
               <p>
                 <a href={resumeDownloadEN} className="button">
-                  <i className="fa fa-download"></i>Download Resume (JP)
+                  <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
               <p>
                 <a href={resumeDownloadJP} className="button">
-                  <i className="fa fa-download"></i>Download Resume (EN)
+                  <i className="fa fa-download"></i>履歴書をダウンロード
                 </a>
               </p>
             </div>
