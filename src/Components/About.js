@@ -51,8 +51,6 @@ const About = ({ data }) => {
                 <a href={resumeDownloadEN} className="button">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
-              </p>
-              <p>
                 <a href={resumeDownloadJP} className="button">
                   <i className="fa fa-download"></i>履歴書をダウンロード
                 </a>
